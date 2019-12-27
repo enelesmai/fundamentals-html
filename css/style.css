@@ -1,0 +1,6 @@
+@media (min-width: 992px) {
+  #navbar {
+    position: fixed;
+    left: 25px;
+  }
+}
